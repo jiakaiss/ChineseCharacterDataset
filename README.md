@@ -5,7 +5,7 @@
 
 
 
-# 笔顺数据集
+# 笔顺数据集（chinese_strokes_order）
     该数据集一共收集了6772个汉字的笔顺信息。将汉字的笔顺分为25类，
 分别是  弯钩（wangou）、捺（na）、提（ti）、撇（pie）、撇折（piezhe）、撇点（piedian）、斜钩或卧钩（xiegouhuowogou）、
 横（heng）、横折（hengzhe）、横折折或横折弯（hengzhezhehuohengzhewan）、横折折折（hengzhezhezhe）、横折折折钩或横撇弯钩（hengzhezhezhegouhuohengpiewangou）、
