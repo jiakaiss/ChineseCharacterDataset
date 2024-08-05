@@ -1,3 +1,3 @@
-# ChineseCharacterDataset
-中文字符数据集
-本项目用于整理一些用过的中文字符数据集，包括笔顺数据集（可用于预测汉字笔画顺序）
+# ChineseCharacterDataset（中文字符数据集）
+
+本项目用于整理一些用过的中文字符数据集，包括一些常见的开源数据集介绍，以及个人收集的数据。其中，个人收集整理的数据集主要包括笔顺数据集（chinese_strokes_order，可用于预测汉字笔画顺序）和带有评价信息的评价数据集（chinese_handwritten_evaluated_dataset，可用于训练对手写汉字的评价能力）。
